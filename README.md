@@ -1,8 +1,5 @@
 ### Hi, I am Avi 👋
 
-<!--
-**AviAvinav/AviAvinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <hr>
 <p>I am a high school student and developer. I am passionate about web development and machine learning. I am well versed with python, javascript and java. I also run a startup  <a href="https://www.linkedin.com/company/the-technovator/">Technovator</a> to teach coding to kids for free.</p>
 
