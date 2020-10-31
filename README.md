@@ -2,7 +2,7 @@
 <hr>
 <img src="My Post.png">
 <hr>
-<p>I am a high school student and developer. I am passionate about web development and machine learning. I am well versed with python, javascript and java. I am also the founder of a startup named <a href="https://www.linkedin.com/company/the-technovator/"><b>Technovator</b></a> which provides free of cost tutoring in programming.</p>
+<p>I am a <b>high school student, developer and entrepreneur</b>. I am passionate about web development and machine learning. I am well versed with python, javascript and java. I am also the founder of a startup named <a href="https://www.linkedin.com/company/the-technovator/"><b>Technovator</b></a> which provides free of cost tutoring in programming.</p>
 
 <p>Find me at:
     <ul>
