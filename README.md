@@ -6,7 +6,7 @@
 
 <p>Find me at:
     <ul>
-      <li>Linkedin: https://www.linkedin.com/in/avi-avinav-03b1b21ab/</li>
+      <li>Linkedin: https://www.linkedin.com/in/avi-avinav/</li>
       <li>Instagram: https://www.instagram.com/aviavinav2004/</li>
       <li>Website: http://aviavinav.github.io/</li>
     </ul>
