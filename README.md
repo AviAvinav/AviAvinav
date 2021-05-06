@@ -12,6 +12,7 @@ Don't forget to check out my projects, especially, my new open-source project [A
 
 <br/>
 I am always happy to chat, feel free to contact me. 😁
+
 </p>
 
 <br/>
