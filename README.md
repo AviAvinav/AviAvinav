@@ -18,8 +18,6 @@ I am always happy to chat, feel free to contact me. 😁
 
 </p>
 
-<br/>
-
 <p>
     
 Find me at:  
