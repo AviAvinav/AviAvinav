@@ -10,7 +10,11 @@ Currently, I am a learner, developer and student. I love to learn anything new, 
 
 <br/>
 
-Don't forget to check out my projects, especially, my new open-source project [Aloria UI](https://github.com/AviAvinav/aloria-ui).
+Don't forget to check out my projects, especially, my new open-source project <b> 
+    
+[Aloria UI](https://github.com/AviAvinav/aloria-ui) 
+
+</b>.
 
 <br/>
 
@@ -18,8 +22,14 @@ I am always happy to chat, feel free to contact me. 😁
 
 </p>
 
-<p>Find me at:
+<br/>
+
+<p>
     
+Find me at:
+  
+<br/>  
+  
 <ul>
     
 <li>
