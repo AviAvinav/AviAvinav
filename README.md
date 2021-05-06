@@ -1,14 +1,46 @@
-### Hello World! Avi Here 👋
-<hr>
-<img src="My Post.png">
-<hr>
-<p>I am a <b>high school student, developer and entrepreneur</b>. I am passionate about web development and machine learning. I am well versed with python, javascript and java,and also libraries such as react, react-native, node, and tensorflow. I am also the founder of a startup named <a href="https://www.linkedin.com/company/the-technovator/"><b>Technovator</b></a> which provides free of cost tutoring in programming.</p>
+## Hi There!! 👋
+
+<p>
+
+I am <b>Avi</b>. Thanks for visiting. 
+
+<br/>
+
+Currently, I am a learner, developer and student. I love to learn anything new, especially, in the field of tech. Previously, I have worked development and leadership roles in the field of tech at various student organizations. In the future, I wish to further my career in tech.
+
+<br/>
+
+Don't forget to check out my projects, especially, my new open-source project [Aloria UI](https://github.com/AviAvinav/aloria-ui).
+
+<br/>
+
+I am always happy to chat, feel free to contact me. 😁
+
+</p>
 
 <p>Find me at:
-    <ul>
-      <li>Linkedin: https://www.linkedin.com/in/avi-avinav/</li>
-      <li>Instagram: https://www.instagram.com/aviavinav2004/</li>
-      <li>Website: http://aviavinav.github.io/</li>
-    </ul>
+    
+<ul>
+    
+<li>
+    
+[LinkedIn](https://www.linkedin.com/in/avi-avinav/)
+
+</li>
+
+<li>
+    
+[Portfolio](https://aviavinav.github.io/)
+
+</li>
+
+<li>
+    
+[Email Me](mailto:aviavinav2004@gmail.com)
+
+</li>
+
+</ul>
+    
 </p>
 
