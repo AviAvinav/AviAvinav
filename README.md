@@ -21,6 +21,54 @@ I am always happy to chat, feel free to contact me. 😁
 <br/>
 
 <p>
+
+Technologies I use and love:
+
+<ul>
+   
+<li>
+    
+React
+
+</li>
+   
+<li>
+    
+Node
+
+</li>
+   
+<li>
+    
+JavaScript
+
+</li>
+      
+<li>
+    
+Python
+
+</li>
+
+<li>
+    
+HTML
+
+</li>
+   
+<li>
+    
+CSS
+
+</li>
+
+<ul>
+
+</p>
+
+<br/>
+
+<p>
     
 Find me at:  
 <br/>  
