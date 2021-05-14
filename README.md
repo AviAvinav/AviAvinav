@@ -96,3 +96,7 @@ Find me at:
     
 </p>
 
+[![Avi Avinav's github stats](https://github-readme-stats.vercel.app/api?username=AviAvinav&show_icons=true&theme=vue)](https://github.com/aviavinav/github-readme-stats)
+
+
+
