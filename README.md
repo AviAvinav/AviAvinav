@@ -33,11 +33,11 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviavinav&hide=java,DeSo-Blockchain-Setup--MLH-LHD-Build-Day-4&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviavinav&hide=java&exclude_repo=DeSo-Blockchain-Setup--MLH-LHD-Build-Day-4)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Gtihub Stats
 
-[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviavinav)](https://github.com/anuraghazra/github-readme-stats)
+[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviavinav&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://linkedin.com/in/avi-avinav
