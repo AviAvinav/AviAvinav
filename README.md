@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- 🌐 I'm currently learning Web 3.0
+- 🌐 I'm currently learning Web 3.0, Rust & Neovim
 - 🤖 I'm looking forward to learning more technologies.
 - 📅 2021 Goals: Contribute more to open source.
 - 🪴 Bonus: I love to play minecraft.
