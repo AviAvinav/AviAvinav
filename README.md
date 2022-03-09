@@ -2,7 +2,8 @@
 
 ## I'm a Student and Developer!
 
-- 🌐 I'm currently learning Web 3.0, Rust & Neovim
+- 🌐 I'm currently learning Web 3.0, Rust & Neovim.
+- 🦫 I'm working on less-wierd (a javascript library)
 - 🤖 I'm looking forward to learning more technologies.
 - 📅 2021 Goals: Contribute more to open source.
 - 🪴 Bonus: I love to play minecraft.
@@ -39,5 +40,5 @@
 
 [![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviavinav&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://codeSTACKr.com
+[website]: https://aviavinav.github.io
 [linkedin]: https://linkedin.com/in/avi-avinav
