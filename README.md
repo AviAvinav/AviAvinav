@@ -34,7 +34,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviavinav&hide=java,python,css&exclude_repo=DeSo-Blockchain-Setup--MLH-LHD-Build-Day-4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviavinav&hide=java&exclude_repo=DeSo-Blockchain-Setup--MLH-LHD-Build-Day-4)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Gtihub Stats
 
