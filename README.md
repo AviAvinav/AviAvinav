@@ -1,6 +1,6 @@
 ### Hi there, I'm Avi 👋
 
-## I'm a Student and Developer!
+## I'm a Javascript Experimentalist!
 
 - 🌐 I'm currently learning Web 3.0 & Rust.
 - 🦫 I'm working on [hurricane](https://github.com/AviAvinav/Hurricane), a typescript-based command-line.
