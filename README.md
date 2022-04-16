@@ -38,7 +38,7 @@
 
 ### Gtihub Stats
 
-[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviavinav&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviavinav&show_icons=true&count_private=true&include_all_commits=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://aviavinav.github.io
 [linkedin]: https://linkedin.com/in/avi-avinav
