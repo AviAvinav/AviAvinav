@@ -2,11 +2,11 @@
 
 ## I'm a Student and Developer!
 
-- 🌐 I'm currently learning Web 3.0, Rust & Neovim.
-- 🦫 I'm working on less-wierd (a javascript library) & kaam (a cli tool)
+- 🌐 I'm currently learning Web 3.0 & Rust.
+- 🦫 I'm working on [hurricane](https://github.com/AviAvinav/Hurricane), a typescript-based command-line.
 - 🤖 I'm looking forward to learning more technologies.
-- 📅 2021 Goals: Contribute more to open source.
-- 🪴 Bonus: I love to play minecraft.
+- 📅 2022 Goals: Create something worthwhile, that people will actually use.
+- 🪴 Bonus: I love to play minecraft, though I am not good at it.
 
 ### Connect with me
 
@@ -17,7 +17,6 @@
 
 ### Languages & Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://github.com/github/explore/blob/main/topics/tailwind/tailwind.png?raw=true" />
