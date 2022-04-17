@@ -10,7 +10,7 @@
 
 ### Tech Stack
 
-[<img algin="left" alt="https://nextjs.org/" width="22px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />](https://nextjs.org/)
+[<img algin="left" alt="https://nextjs.org/" width="22px" src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png" />](https://nextjs.org/)
 [<img algin="left" alt="https://reactjs.org/" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />](https://reactjs.org/)
 [<img algin="left" alt="https://tailwindcss.com/" width="22px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />](https://tailwindcss.com/)
 [<img algin="left" alt="https://nodejs.org/en/" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />](https://nodejs.org/en/)
