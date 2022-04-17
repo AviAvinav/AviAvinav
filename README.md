@@ -1,12 +1,23 @@
-### 👋 Hi there, I'm Avi
+## 👋 Hi there, I'm Avi
 
-## ✨ I'm a Javascript Experimentalist!
+# ✨ I'm a Javascript Experimentalist!
 
 - 🌐 I'm currently learning Web 3.0 & Rust.
-- 🦫 I'm working on [hurricane](https://github.com/AviAvinav/Hurricane), a typescript-based command-line.
+- 🦫 I'm working on [Hurricane](https://github.com/AviAvinav/Hurricane), a typescript-based command-line.
 - 🤖 I'm looking forward to learning more technologies.
 - 📅 2022 Goals: Create something worthwhile, that people will actually use.
 - 🪴 Bonus: I love to play minecraft, though I am not good at it.
+
+### Tech Stack
+
+[<img algin="left" alt="https://nextjs.org/" width="22px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />](https://nextjs.org/)
+[<img algin="left" alt="https://reactjs.org/" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />](https://reactjs.org/)
+[<img algin="left" alt="https://tailwindcss.com/" width="22px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />](https://tailwindcss.com/)
+[<img algin="left" alt="https://nodejs.org/en/" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />](https://nodejs.org/en/)
+[<img algin="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />]()
+[<img algin="left" alt="https://www.typescriptlang.org/" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />](https://www.typescriptlang.org/)
+[<img algin="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />]()
+[<img algin="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />]()
 
 ### Connect with me
 
