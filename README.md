@@ -52,6 +52,6 @@
 
 [![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviavinav&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://aviavinav.github.io
+[website]: https://www.aviavinav.tech/
 [linkedin]: https://linkedin.com/in/avi-avinav
 [twitter]: https://twitter.com/aviavinav0
