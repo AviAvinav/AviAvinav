@@ -21,7 +21,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="https://aviavinav.github.io/" width="22px" src="[https://cdn-icons.flaticon.com/png/512/3449/premium/3449746.png?token=exp=1650137601~hmac=ba295163549524c422ad32eba5792f38](https://cdn-icons-png.flaticon.com/512/3626/3626814.png)" />][website]
+[<img align="left" alt="https://aviavinav.github.io/" width="22px" src="https://cdn-icons-png.flaticon.com/512/3626/3626814.png" />][website]
 [<img align="left" alt="https://linkedin.com/in/avi-avinav" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384062.png" />][linkedin]
 [<img align="left" alt="https://twitter.com/aviavinav0" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 
