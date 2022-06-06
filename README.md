@@ -10,7 +10,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,remix,react,tailwind,nodejs,js,ts,html,css)](https://skillicons.dev)
 
 ### Connect with me
 
