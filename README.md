@@ -3,8 +3,7 @@
 # ✨ I'm a Javascript Experimentalist!
 
 - 🌐 I'm currently learning Svelte.
-- 🦫 I'm working on [Hurricane](https://github.com/AviAvinav/Hurricane), a typescript-based command-line.
-- 🤖 I'm looking forward to learning more technologies.
+- 🦫 I'm currently working on [Hurricane](https://github.com/AviAvinav/Hurricane), a typescript-based command-line.
 - 🪴 I love to play minecraft, though I am not good at it.
 
 ### Tech Stack
@@ -13,12 +12,8 @@
 
 ### Connect with me
 
-<div style="display: flex; flex-direction:row;">
-
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)][linkedin]
 [![Twitter](https://skillicons.dev/icons?i=twitter)][twitter]
-
-</div>
 
 <br/>
 
