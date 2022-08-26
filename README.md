@@ -14,7 +14,7 @@
 ### Connect with me
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)][linkedin]
-<div style="width: 2px; height: 100%"/>
+<div style="width: 2px; height: 100%"></div>
 [![Twitter](https://skillicons.dev/icons?i=twitter)][twitter]
 
 <br/>
