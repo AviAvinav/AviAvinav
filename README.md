@@ -13,6 +13,9 @@
 
 ### Connect with me
 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)][linkedin]
+[![Twitter](https://skillicons.dev/icons?i=twitter)][twitter]
+
 [<img align="left" alt="https://linkedin.com/in/avi-avinav" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384062.png" />][linkedin]
 [<img align="left" alt="https://twitter.com/aviavinav0" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 
