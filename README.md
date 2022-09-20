@@ -14,8 +14,10 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)][linkedin]
 [![Twitter](https://skillicons.dev/icons?i=twitter)][twitter]
+[![DEV](https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg)][dev]
 
 <br/>
 
 [linkedin]: https://linkedin.com/in/avi-avinav
 [twitter]: https://twitter.com/aviavinav0
+[dev]: https://dev.to/aviavinav
