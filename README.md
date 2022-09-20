@@ -14,7 +14,7 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)][linkedin]
 [![Twitter](https://skillicons.dev/icons?i=twitter)][twitter]
-[![DEV](https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg)][dev]
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" height="40"
 
 <br/>
 
